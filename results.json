@@ -1,0 +1,1190 @@
+[
+	{
+		"title": "Inspirational Website of the Week: ResIM",
+		"content": "ResIM has a really clean design with some smooth, subtle effects and a clear typography. Our pick this week.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_resim.png",
+		"url": "http://res.im/"
+	},
+	{
+		"title": "Dropdowns Should be the UI of Last Resort",
+		"content": "Luke Wroblewski shows several alternatives to dropdowns to consider in your designs and explains why.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_dropdowns.png",
+		"url": "http://www.lukew.com/ff/entry.asp?1950"
+	},
+	{
+		"title": "Quantity Ordering With CSS",
+		"content": "Drew Minns shows some advanced CSS technique that will order elements based on the number of siblings.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_csscount.png",
+		"url": "http://www.smashingmagazine.com/2015/07/14/quantity-ordering-with-css/"
+	},
+	{
+		"title": "Pure UI",
+		"content": "Guillermo Rauch discusses the definition of an application's UI as a pure function of application state.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_pureUI.png",
+		"url": "http://rauchg.com/2015/pure-ui/"
+	},
+	{
+		"title": "12 Little-Known CSS Facts (The Sequel)",
+		"content": "Louis Lazaris shows us some more interesting CSS facts that can come in really handy.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_12cssfacts11.png",
+		"url": "http://www.sitepoint.com/12-little-known-css-facts-the-sequel/"
+	},
+	{
+		"title": "Comparing Bootstrap With Google's New Material Design Lite",
+		"content": "Danny Markov does a really helful comparison between Bootstrap and MDL.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_mdlvsbootstrap.png",
+		"url": "http://tutorialzine.com/2015/07/comparing-bootstrap-with-mdl/"
+	},
+	{
+		"title": "Mostly adequate guide to functional programming (in JavaScript)",
+		"content": "A great guide to functional programming in JS by Brian Lonsdorf.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_functionalprogramming.png",
+		"url": "https://github.com/DrBoolean/mostly-adequate-guide"
+	},
+	{
+		"title": "Birply Icons (AI, SVG)",
+		"content": "A lovely set of detail-rich icons by Davide Pacilio.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_birply.png",
+		"url": "http://iconstore.co/icons/birply-icons/"
+	},
+	{
+		"title": "Free Font: BERNIER",
+		"content": "Ryan Pyae shares this uppercase display font for free.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_bernier.png",
+		"url": "https://www.behance.net/gallery/27964583/BERNIER-Free-Typefamily"
+	},
+	{
+		"title": "Tenue CSS Text Effect",
+		"content": "A creative CSS text effect made with text-shadows. By Pixeden.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_Tenue1.png",
+		"url": "http://themes-pixeden.com/playground/text/tenue/"
+	},
+	{
+		"title": "The DOM is getting better",
+		"content": "An interesting article by Peter Jaszkowiak on newer DOM functionality and it's benefits.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_thedomisgettingbetter.png",
+		"url": "https://medium.com/@PitaJ/the-dom-is-getting-better-8d1a4eaf99e7"
+	},
+	{
+		"title": "The Dominey Effect: For the Love of the Web, Learn Swift",
+		"content": "Nishant Kothary has a message:  learn Swift today.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_Swift.jpg",
+		"url": "http://alistapart.com/column/love-the-web-learn-swift"
+	},
+	{
+		"title": "Spot the unsubscribe!",
+		"content": "Lea Verou exposes the seemingly intentionally hidden unsubscribe options from promotional emails and junk mail.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_spotunsubscribe.png",
+		"url": "http://spottheunsubscribe.tumblr.com/"
+	},
+	{
+		"title": "Designers: Use'em or Lose'em!",
+		"content": "An interesting article on the importance of getting most out of a design team in a company.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_designersuseem.png",
+		"url": "http://zurb.com/article/1396/designers-use-em-or-lose-em"
+	},
+	{
+		"title": "Freebie: A Workspace Illustrations Kit (AI, PNG, PSD, EPS and SVG)",
+		"content": "A great freebie including 60 lovely workspace illustrations by Anastasia Kolisnichenko for Smashing Magazine.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_Stationary.png",
+		"url": "http://www.smashingmagazine.com/2015/07/15/freebie-workspace-illustrations-kit/"
+	},
+	{
+		"title": "One wise coder once said...",
+		"content": "Get inspired with these visual code proverbs made from AntJanus' programmer's proverbs. By Bora Gökalp.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_codersproverbs.png",
+		"url": "http://coderproverbs.tumblr.com/"
+	},
+	{
+		"title": "Render dynamic SVG's with React",
+		"content": "A demo that shows how to render SVGs dynamically with React. Made by Jos de Jong.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_svgreact.png",
+		"url": "http://jsbin.com/beveno/edit?html,output"
+	},
+	{
+		"title": "Paths",
+		"content": "With this helpful little tool you can edits SVGs in your browser. Made by Brent Jackson.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_paths.png",
+		"url": "http://jxnblk.com/paths/"
+	},
+	{
+		"title": "Create a beach illustration in Adobe Illustrator",
+		"content": "A masterclass by Veerle Pieters where you'll learn to create a detailed beach illustration.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_beachillustration.png",
+		"url": "http://veerle.duoh.com/design/article/create_a_beach_illustration_in_adobe_illustrator"
+	},
+	{
+		"title": "D3.js design patterns",
+		"content": "A collection of articles on how to write better D3 applications. By Bill Automata.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective177_d3js.png",
+		"url": "https://github.com/billautomata/d3js_design_patterns"
+	},
+	{
+		"title": "Inspirational Website of the Week: Jesper",
+		"content": "Motion details and a great balanced color scheme made us pick this beauty as the website of the week.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_jesper.png",
+		"url": "http://jesperlandberg.se/"
+	},
+	{
+		"title": "Screenings – Watch. Learn. Design.",
+		"content": "A fantastic resource that collects design-related videos from around the web. Made by Sacha Greif.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_screenings.png",
+		"url": "http://screenings.io/"
+	},
+	{
+		"title": "Stretchy: Form element autosizing, the way it should be",
+		"content": "Lea Verou's script for form control autosizing which works on multiple types of form controls.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_stretchy1.png",
+		"url": "http://leaverou.github.io/stretchy/"
+	},
+	{
+		"title": "Pixel Picker",
+		"content": "Create cool pixel art with this tool made by and used on Designer News.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_pixelpicker.png",
+		"url": "https://github.com/DesignerNews/pixel-picker"
+	},
+	{
+		"title": "Position sticky: scroll-to-top-then-fixed in pure CSS",
+		"content": "Dudley Storey shows how to achieve the \"scroll-to-top-then-fixed\" behavior in pure CSS.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_scrolltotopthenfixed.png",
+		"url": "http://demosthenes.info/blog/1052/position-sticky-scroll-to-top-then-fixed-in-pure-CSS"
+	},
+	{
+		"title": "Smarter Grids With Sass And Susy",
+		"content": "Michelle Barker shows how to use Susy, a Sass-based grid framework, to create fast, responsive and fully customizable grids.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_smartergridssass.png",
+		"url": "http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/"
+	},
+	{
+		"title": "Advancing the web without breaking it?",
+		"content": "Christian Heilmann talks about ES6 and other technologies and how to use them without breaking the web as we know it.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_advancingtheweb.png",
+		"url": "https://vimeo.com/134279371"
+	},
+	{
+		"title": "Using Graph Theory to Build a Simple Recommendation Engine in JavaScript",
+		"content": "Keith Horwood shows how to create a simple recommendation engine in JavaScript.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_graphs.png",
+		"url": "https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3"
+	},
+	{
+		"title": "RISE Typeface",
+		"content": "A great looking brush font designed by Pavel Korzhenko for PixelBuddha.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_rise.png",
+		"url": "http://pixelbuddha.net/freebie/rise-typeface-bonus-free"
+	},
+	{
+		"title": "A History of Typeface Styles & Type Classification",
+		"content": "Chris Spooner gives us a great overview of typeface styles and type classification.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_histtypo.jpg",
+		"url": "http://blog.spoongraphics.co.uk/articles/a-history-of-typeface-styles-type-classification"
+	},
+	{
+		"title": "Explaining graphic design to four-year-olds",
+		"content": "Dean Vipond explains graphic design principles to four-year-olds in a brilliant way.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_4yearolds.png",
+		"url": "https://medium.com/@deanvipond/explaining-graphic-design-to-four-year-olds-fe9257ffaf3d"
+	},
+	{
+		"title": "Redesigning the Apple Watch UI",
+		"content": "Luke Wroblewski proposes redesigning the Apple Watch UI for the sake of a simpler interaction model.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_applewatch.png",
+		"url": "http://www.lukew.com/ff/entry.asp?1951"
+	},
+	{
+		"title": "Stop Gratuitous UI Animation",
+		"content": "Sophie Paxton explores the overuse of animation in UI design and offers some suggestions for more effective GUI motion design.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_animation.jpg",
+		"url": "https://medium.com/@sophie_paxtonUX/stop-gratuitous-ui-animation-9ece9aa9eb97"
+	},
+	{
+		"title": "AquaWay Free Vector Pack (AI, EPS)",
+		"content": "A pack of lovely hand-drawn vector elements by Oksana Golubets.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_aquaway.png",
+		"url": "http://pixelbuddha.net/freebie/aquaway-free-download-vector-pack"
+	},
+	{
+		"title": "Free Font: JEKYLL HYDE",
+		"content": "Tano Veron designed this interesting upperace display font.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_jekyll.png",
+		"url": "https://www.behance.net/gallery/28067519/JEKYLL-HYDE-Free-Font"
+	},
+	{
+		"title": "26 digital typography rules for beginners",
+		"content": "Some great tips on how to master digital typography for beginners by Tom Koszyk.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_26typorules.jpg",
+		"url": "https://medium.com/product-design-ux-ui/26-digital-typography-rules-for-beginners-a04c6a5aaff3"
+	},
+	{
+		"title": "Free Font: Aquatico",
+		"content": "A beautiful, geometric and rounded typeface designed by Andrew Herndon.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_aquatico.png",
+		"url": "https://www.behance.net/gallery/28096233/Aquatico-Free-San-Serif"
+	},
+	{
+		"title": "Bare Auth",
+		"content": "Bare Auth is a ready-to-deploy stateless authentication server which supports all authentication strategies out of the box. Made by Lapwing Labs.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_bareauth.jpg",
+		"url": "https://github.com/lapwinglabs/bare-auth"
+	},
+	{
+		"title": "ClickSpark.js",
+		"content": "ClickSpark.js is a javascript utility that adds beautiful particle effects to your JavaScript events. Made by Thomas Zinnbauer.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective178_clicksparkjs.png",
+		"url": "https://github.com/ymc-thzi/clickspark.js"
+	},
+	{
+		"title": "Inspirational Website of the Week: Quant Agency",
+		"content": "A clean and fresh site with some interesting design details and interactions. Our pick this week.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_quant.png",
+		"url": "http://quant.agency/#main?utm_source=codrops"
+	},
+	{
+		"title": "What The FlexBox?!",
+		"content": "A simple, free 20 video course that will help you master CSS Flexbox by Wes Bos.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_whattheflexbox.png",
+		"url": "http://flexbox.io/#/?utm_source=codrops"
+	},
+	{
+		"title": "Stop pushing the web forward",
+		"content": "A reasonable call for not moving the web forward for a while so that we can learn and understand the current features for a more meaningful vision of the web.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/07/Collective179_stoppushingweb.png",
+		"url": "http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html?utm_source=codrops"
+	},
+	{
+		"title": "Pageload Perf Audits with DevTools Filmstrip in Chrome",
+		"content": "Paul Irish shows how to use the Chrome DevTools and Filmstrip to diagnose slow page loading of several big websites.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_pageloadperfaudits.png",
+		"url": "https://www.youtube.com/watch?v=tCfF6HI0JKs/?utm_source=codrops"
+	},
+	{
+		"title": "Tookapic: 365 project",
+		"content": "With tookapic's 365 project you can capture your life by taking one photo a day for 365 days. Tookapic is also a great resource for high quality stock photos.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collectie179_Tookapic.jpg",
+		"url": "https://tookapic.com/?utm_source=codrops"
+	},
+	{
+		"title": "minigrid",
+		"content": "A minimal grid layout with no dependencies by Henrique Alves.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_minigrid.png",
+		"url": "http://alves.im/minigrid/?utm_source=codrops"
+	},
+	{
+		"title": "How To Create a Text Portrait Effect in Photoshop",
+		"content": "A master class by Chris Spooner on how to create an awesome text portrait effect in Photoshop.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_textportrait.png",
+		"url": "http://blog.spoongraphics.co.uk/tutorials/how-to-create-a-text-portrait-effect-in-photoshop"
+	},
+	{
+		"title": "Spatial Interfaces",
+		"content": "An excellent article on spatial interfaces by Pasquale D’Silva.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_spatialinterfaces.png",
+		"url": "https://medium.com/elepath-exports/spatial-interfaces-886bccc5d1e9/?utm_source=codrops"
+	},
+	{
+		"title": "CSS vs. SVG: Graphical Text Effects",
+		"content": "The first article of a series of posts exploring techniques for creating graphical effects using CSS and SVG by Sara Soueidan.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_cssvssvg.png",
+		"url": "http://blogs.adobe.com/dreamweaver/2015/07/css-vs-svg-graphical-text.html/?utm_source=codrops"
+	},
+	{
+		"title": "Designing Flexible, Maintainable Pie Charts With CSS and SVG",
+		"content": "An excerpt form Lea Verou's latest book, CSS Secrets, where she explains several methods for generating pie charts.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_piecharts.png",
+		"url": "http://www.smashingmagazine.com/2015/07/designing-simple-pie-charts-with-css/?utm_source=codrops"
+	},
+	{
+		"title": "Free Font: Vibrey",
+		"content": "A very creative font design that is based on vibration, made by Sasha B. Perelman.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_vibrey.png",
+		"url": "https://www.behance.net/gallery/28153825/Vibrey-free-font/?utm_source=codrops"
+	},
+	{
+		"title": "Advanced CSS filters",
+		"content": "Vincent De Oliveira explores some advanced CSS filter techniques.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_advancedcssfilters.png",
+		"url": "http://iamvdo.me/en/blog/advanced-css-filters/?utm_source=codrops"
+	},
+	{
+		"title": "Constructing CSS Quantity Queries On The Fly",
+		"content": "Drew Minns shows how to use quantityqueries.com for constructing custom quantity queries in CSS.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_quantityqueries.png",
+		"url": "http://www.smashingmagazine.com/2015/07/constructing-css-quantity-queries-on-the-fly/?utm_source=codrops"
+	},
+	{
+		"title": "Free Font: Ikra Slab",
+		"content": "A beautiful slab serif font designed by Sergey Godovalov.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_ikra.png",
+		"url": "https://www.behance.net/gallery/28144381/Ikra-Slab-Typeface/?utm_source=codrops"
+	},
+	{
+		"title": "The Web We Have to Save",
+		"content": "A must-read article by author and blogger Hossein Derakhshan on how we have to save the web from becoming a linear and passive TV-internet.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_thewebwehavetosay.png",
+		"url": "https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426/?utm_source=codrops"
+	},
+	{
+		"title": "Monobrand iOS UI Kit (Free Sample)",
+		"content": "A free sample from the beautifully designed Monobrand UI for creating iOS app designs.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_monobrand.png",
+		"url": "http://graphicburger.com/monobrand-ios-ui-kit-free-sample/"
+	},
+	{
+		"title": "How The Next Web Redesign Puts Content First",
+		"content": "The team at ZURB analyzed The New Web's latest redesign with their design team to figure out the thinking behind their design decisions.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_tnw.png",
+		"url": "http://zurb.com/article/1397/how-the-next-web-redesign-puts-content-fi/?utm_source=codrops"
+	},
+	{
+		"title": "A Visual Introduction to Machine Learning",
+		"content": "An excellent visual introduction to Machine Learning by R2D3.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective179_visualintromachinelearning.png",
+		"url": "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/?utm_source=codrops"
+	},
+	{
+		"title": "Inspirational Website of the Week: Chelsea Collective",
+		"content": "Super-smooth transitions with some lovely details made us pick Chelsea Collective for this week's inspiration.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_WOTW_ChelseaCollective.jpg",
+		"url": "https://www.chelseacollective.com/"
+	},
+	{
+		"title": "Designing for Performance",
+		"content": "In her free online book, Lara Callender Hogan helps you approach projects with page speed in mind, showing you how to test and benchmark which design choices are most critical.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_DesigningforPerformance.jpg",
+		"url": "http://designingforperformance.com/?utm_source=codrops"
+	},
+	{
+		"title": "Hotjar: See how your visitors are using your site",
+		"content": "HotJar is an easy way to truly understand your web and mobile site visitors (now out of Beta).",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_Hotjar.jpg",
+		"url": "http://goo.gl/JytL7c"
+	},
+	{
+		"title": "codedoodl.es",
+		"content": "A fantastic platform for showcasing creative coding experiments built with the latest web technologies. Created by FLUUUID.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_Codedoodles.jpg",
+		"url": "http://codedoodl.es/?utm_source=codrops"
+	},
+	{
+		"title": "3D Garage (AI, EPS, PDF)",
+		"content": "A fantastic 3D isometric illustration freebie by Sebastian Matiz.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_3dGarage.png",
+		"url": "http://sebastianmatiz.com/2015/08/04/3d-isometric-worlds/"
+	},
+	{
+		"title": "One Line Startup Icons (AI)",
+		"content": "A very creative icon set where each icon is composed of just one line. Made by Differantly Studio.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_OneLine.jpg",
+		"url": "https://www.behance.net/gallery/28491041/One-line-Free-Startup-icons"
+	},
+	{
+		"title": "BEMIT: Taking the BEM Naming Convention a Step Further",
+		"content": "Harry Roberts introduces an interesting augmentation to the BEM naming convention, including namespaces and responsive suffixes.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_BEMIT.png",
+		"url": "http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/?utm_source=codrops"
+	},
+	{
+		"title": "Build a Real-Time Polymer To-Do App",
+		"content": "An in-depth tutorial by Kevin Gleason on how to build a to-do app with Polymer.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_ToDoPolymer.jpg",
+		"url": "https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app?utm_source=codrops"
+	},
+	{
+		"title": "If we stand still, we go backwards",
+		"content": "Jake Archibald writes an interesting response to Peter-Paul Koch's article Stop pushing the web forward. Also, check out Bruce Lawson's and Nicolas Bevacqua's responses.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_Ifwedontmoveforward.jpg",
+		"url": "https://jakearchibald.com/2015/if-we-stand-still-we-go-backwards/?utm_source=codrops"
+	},
+	{
+		"title": "The JavaScript Looping Evolution",
+		"content": "Cody Lindley gives an overview of the evolution of JavaScript looping and discusses the significant updates for JavaScript 2015.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_JSLooping.jpg",
+		"url": "http://developer.telerik.com/featured/the-javascript-looping-evolution/?utm_source=codrops"
+	},
+	{
+		"title": "CSSfmt",
+		"content": "CSSfmt is a tool that automatically formats CSS source code, inspired by Gofmt, and built on top of the PostCSS ecosystem. Made by Masaaki Morishita.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_CSSFmt.png",
+		"url": "https://github.com/morishitter/cssfmt"
+	},
+	{
+		"title": "Free Font: Arctic",
+		"content": "Matt Ellis designed this interesting slab serif font and offers it for free.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_FreeFontArtic.png",
+		"url": "https://www.behance.net/gallery/28387201/Arctic-Free-Typeface"
+	},
+	{
+		"title": "Spec.fm",
+		"content": "A fresh network with podcasts for designers and developers.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_Specfm.png",
+		"url": "http://spec.fm/?utm_source=codrops"
+	},
+	{
+		"title": "NOW UI Kit",
+		"content": "A free, beautiful cross-platform UI kit by no one else but the InVision team.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_NOWUIKit.jpg",
+		"url": "http://www.invisionapp.com/now?utm_source=codrops"
+	},
+	{
+		"title": "DIFF Landing Page (PSD)",
+		"content": "A stunning landing page design by Tiago Narciso for HeyBundle.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_DiffFreebie.png",
+		"url": "http://www.heybundle.com/freebies/downloads/diffpsdlandingpage/?utm_source=codrops"
+	},
+	{
+		"title": "To Sketch, or not to Sketch?",
+		"content": "A great interview by Matthieu Aussaguel where he asks designer Tobia Crivellari what his take on Sketch and Material Design is.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_tosketchornot.png",
+		"url": "https://medium.com/materialup-exploring-material-design/to-sketch-or-not-to-sketch-858522b45337"
+	},
+	{
+		"title": "TouchPoint.js",
+		"content": "A JavaScript library that visually shows taps/clicks for HTML prototypes using CSS3 transitions on desktop and mobile. Made by Jonah Bitautas.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_Touchpoint.png",
+		"url": "https://github.com/jonahvsweb/touchpoint-js"
+	},
+	{
+		"title": "CSS: Why we need localized constants",
+		"content": "An interesting article on Macropod that introduces a PostCSS plugin to process imported variables from a file, removing them from a global scope. ",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_LocalizedConstants.jpg",
+		"url": "https://macropod.com/blog/why-we-need-localized-css-constants/?utm_source=codrops"
+	},
+	{
+		"title": "Free Font: NEW INDUSTRY",
+		"content": "An exquisite uppercase font designed by Emil Boye.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_FreeFont_NewIndustry.png",
+		"url": "https://www.behance.net/gallery/28294995/NEW-INDUSTRY-Free-Font"
+	},
+	{
+		"title": "Making and Breaking the Web With CSS Gradients",
+		"content": "Mike Taylor and Dietrich Ayala explain why we should be checking our stylesheets for outdated (prefixed) gradient syntax.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_Gradients.jpg",
+		"url": "https://hacks.mozilla.org/2015/08/making-and-breaking-the-web-with-css-gradients/?utm_source=codrops"
+	},
+	{
+		"title": "Highlighter.js",
+		"content": "Highlighter.js is a small JavaScript library that allows you to easily navigate, select and highlight DOM elements. Made by 720kb.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_HighlighterJS.png",
+		"url": "http://720kb.github.io/highlighter.js/"
+	},
+	{
+		"title": "Quick Tip: CSS Only Dropdowns With The Checkbox Hack",
+		"content": "A quick tip by Danny Markov from Tutorialzine where you'll learn how to create a dropdown with the checkbox hack.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_cssdropdown.png",
+		"url": "http://tutorialzine.com/2015/08/quick-tip-css-only-dropdowns-with-the-checkbox-hack/?utm_source=codrops"
+	},
+	{
+		"title": "canvid.js",
+		"content": "Canvid is a tiny dependency free library for playback of relatively short videos on canvas elements. Made by Gregor Aisch.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective180_Canvid.png",
+		"url": "https://github.com/gka/canvid"
+	},
+	{
+		"title": "Inspirational Website of the Week: ISL",
+		"content": "A dynamic experience and excellent typography made us pick ISL this week.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_isl.png",
+		"url": "https://isl.co/"
+	},
+	{
+		"title": "Understanding Critical CSS",
+		"content": "Dean Hume explains what critical CSS is and how we can inlining it into the head of pages for faster site loading.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_criticalcss.png",
+		"url": "http://www.smashingmagazine.com/2015/08/understanding-critical-css/"
+	},
+	{
+		"title": "The Language of Modular Design",
+		"content": "Alla Kholmatova explains why design language is the most important pillar for modularity.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_ALA.jpg",
+		"url": "http://alistapart.com/article/language-of-modular-design"
+	},
+	{
+		"title": "Quick Add To Cart",
+		"content": "A handy snippet to let users customize a product directly from the products gallery, and add it to the cart. By Claudia Romano from CodyHouse.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_quickaddtocart.png",
+		"url": "http://codyhouse.co/gem/quick-add-to-cart/"
+	},
+	{
+		"title": "Free Font: Rissa",
+		"content": "A beautiful hand-drawn font made by Maulana Creative for PixelBuddha.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_rissa.png",
+		"url": "http://pixelbuddha.net/freebie/free-font-rissa-typeface-download"
+	},
+	{
+		"title": "Big List of Naughty Strings",
+		"content": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. Put together by Max Woolf.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_NaughtyStrings.png",
+		"url": "https://github.com/minimaxir/big-list-of-naughty-strings"
+	},
+	{
+		"title": "WebGLStudio.js",
+		"content": "A full 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more. By Javi Agenjo.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_webglstudio.png",
+		"url": "https://github.com/jagenjo/webglstudio.js"
+	},
+	{
+		"title": "Real-Time Search in JavaScript",
+		"content": "A nice technique to search on a page and show the relevant content while hiding the other part. By Osvaldas Valutis.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_realtimesearch.png",
+		"url": "http://osvaldas.info/real-time-search-in-javascript"
+	},
+	{
+		"title": "The ES6 Conundrum",
+		"content": "Christian Heilman writes about ECMAScript6, the evolution of JavaScript, and shows how powerful it is and why it needs our attention.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_es6conundrum.png",
+		"url": "http://www.sitepoint.com/the-es6-conundrum/"
+	},
+	{
+		"title": "Free Font: Break",
+		"content": "A very lovely and unique looking font by Rajesh Rajput.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_break.png",
+		"url": "https://www.behance.net/gallery/28586665/Break-Free-Font"
+	},
+	{
+		"title": "Fblu free icons (PSD, AI)",
+		"content": "A very nice icon set with various line icons designed by buatoom.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_fblu.png",
+		"url": "https://dribbble.com/shots/2195010-Fblu-free-icons"
+	},
+	{
+		"title": "The Hamburger Menu Doesn't Work",
+		"content": "A fantastic article by James Archer on why the hamburger icon simply doesn't work.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_hamburger.png",
+		"url": "http://deep.design/the-hamburger-menu/"
+	},
+	{
+		"title": "UI Kit (Sketch)",
+		"content": "A lovely Sketch UI kit with various design elements made by Cerpow.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_uikit.png",
+		"url": "http://www.cerpow.com/kit/"
+	},
+	{
+		"title": "Create Text Filling with Water Effect",
+		"content": "Lucas Bebber shows how to create a really cool water text filling effect with SVG.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_textfillingwatereffect.png",
+		"url": "https://blogs.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect.html"
+	},
+	{
+		"title": "Pure CSS Apple Device Generator",
+		"content": "A very handy Apple device generator that creates CSS-only devices from iPhones to iMacs. Made by Ömer Aslanbakan.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_purecssapple.png",
+		"url": "http://purecssapple.com/"
+	},
+	{
+		"title": "Free Font: Troupe Regular",
+		"content": "Simon Stratford designed this lovely font and he offers the regular style for free.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_troupe.png",
+		"url": "https://www.behance.net/gallery/28625995/Troupe"
+	},
+	{
+		"title": "“Scribble” Image Reveal with SVG and Blend Modes",
+		"content": "A really interesting technique of revealing an image using the animated stroke technique and belnd modes. By Dudley Storey,.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_scribble.png",
+		"url": "http://demosthenes.info/blog/1062/Scribble-Image-Reveal-with-SVG-and-Blend-Modes"
+	},
+	{
+		"title": "Android Experiments",
+		"content": "A Google site that collects cool Android Experiments.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_androidexperiments.png",
+		"url": "https://www.androidexperiments.com/"
+	},
+	{
+		"title": "Iteration Builds Momentum",
+		"content": "Bryan Zmijewski writes about how every company is trying to put processes in place to minimize or eliminate failure, but in doing so are stifling the biggest driver of momentum.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective181_iterationbuildsmomentum.png",
+		"url": "http://zurb.com/article/1398/iteration-builds-momentum"
+	},
+	{
+		"title": "Inspirational Website of the Week: Coralie Castot Directrice artistique",
+		"content": "Well, that's a fine honeycombs loading effect! Our pick this week.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_WOTW.png",
+		"url": "http://coralie-castot.fr/"
+	},
+	{
+		"title": "Laying Out A Flexible Future For Web Design With Flexbox",
+		"content": "An article by Ben Gremillion with a great visual Flexbox reference and an exploration of its dizzying array of features.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_flexbox.png",
+		"url": "http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/"
+	},
+	{
+		"title": "WebGLStudio.js",
+		"content": "WebGLStudio.js is a platform to create interactive 3D scenes directly from the browser. It allows to edit the scene visually, code your behaviours, edit the shaders, and all directly from within the app. By Javi Agenjo.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_webgl.png",
+		"url": "http://webglstudio.org/"
+	},
+	{
+		"title": "UI Movement",
+		"content": "A great new source for UI animation inspiration.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_uimovement.png",
+		"url": "http://uimovement.com/"
+	},
+	{
+		"title": "TUTSET: Learn web design & web development",
+		"content": "A curated and well categorized collection of resources (free and paid) for learning web design and web development.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_tutorials.png",
+		"url": "http://www.tutset.com/"
+	},
+	{
+		"title": "Flying a drone in your browser with WebBluetooth",
+		"content": "Jan Jongboom shows how we can use WebBluetooth in order to interact with real-world appliances and new devices, and even control drones. ",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_drone.jpg",
+		"url": "https://hacks.mozilla.org/2015/08/flying-a-drone-in-your-browser-with-webbluetooth/"
+	},
+	{
+		"title": "First Time User Experiences",
+		"content": "A fantastic resource of first time user experiences provided by Krystal Higgins.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_firstUX.png",
+		"url": "http://firsttimeux.tumblr.com/"
+	},
+	{
+		"title": "Spheres",
+		"content": "Learn all about creating spheres and animating them with CSS. A tutorial by Donovan Hutchinson.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_spheres.png",
+		"url": "https://cssanimation.rocks/spheres/"
+	},
+	{
+		"title": "Better Image Borders with Blend Modes",
+		"content": "Dudley Storey shows how to use CSS Blend Modes for creating interesting image border effects.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_bordersblendmodes.jpg",
+		"url": "http://thenewcode.com/1065/Better-Image-Borders-with-Blend-Modes"
+	},
+	{
+		"title": "How DNS Works",
+		"content": "Learn how DNS works with this fantastic comic series by DNSimple.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_DNS.png",
+		"url": "https://howdns.works/"
+	},
+	{
+		"title": "Type­set.js",
+		"content": "A ty­po­graphic pre-proces­sor for your HTML with no dependencies. It creates real hang­ing punc­tu­a­tion and soft hy­phen in­ser­tion among others. Made by David Merfield.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_type.png",
+		"url": "https://blot.im/typeset/"
+	},
+	{
+		"title": "On the nature of timers",
+		"content": "Kyle Simpson is exploring the existing state of JavaScript's timers, specifically setTimeout(..) and setInterval(..).",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_jstime.png",
+		"url": "http://blog.getify.com/on-the-nature-of-timers"
+	},
+	{
+		"title": "CSS Modules: Welcome to the Future",
+		"content": "Glen Maddern tells us about what CSS Modules are, what problems they solve and why he believes that they are the future.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_cssmodules.png",
+		"url": "http://glenmaddern.com/articles/css-modules"
+	},
+	{
+		"title": "Bootstrap 4 alpha",
+		"content": "Four years ago, developers around the world got excited about Bootstrap. Now, the first alpha release of Bootstrap 4 is available.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_Bootstrap4.jpg",
+		"url": "http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/"
+	},
+	{
+		"title": "How does a relational database work",
+		"content": "An excellent in-depth article on how relational databases work. By Christophe Kalenzaga.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_RelDB.jpg",
+		"url": "http://coding-geek.com/how-databases-work/"
+	},
+	{
+		"title": "GoTTY: Share your terminal as a web application",
+		"content": "GoTTY is a simple command line tool that turns your CLI tools into web applications. Made by Iwasaki Yudai.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_Gotty.png",
+		"url": "https://github.com/yudai/gotty"
+	},
+	{
+		"title": "Tasks, microtasks, queues and schedules",
+		"content": "Jake Archibald explains the dry topic of microtask queueing in a interesting and visual way.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_tasksmicrotasks.png",
+		"url": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/"
+	},
+	{
+		"title": "Experiments in Loading - How Long Will You Wait?",
+		"content": "Ian Tate shares his studies of the ubiquitous digital experience of the loading animations.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_viget.png",
+		"url": "https://viget.com/inspire/experiments-in-loading-how-long-will-you-wait"
+	},
+	{
+		"title": "Free Font: Hack",
+		"content": "Chris Simpkins designed this optically balanced typeface for source code.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective182_hack.png",
+		"url": "https://github.com/chrissimpkins/Hack"
+	},
+	{
+		"title": "Inspirational Website of the Week: Kwok Yin Mak",
+		"content": "A fantastic portfolio with smooth transitions and an impeccable design. Our pick this week.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_WOTW.jpg",
+		"url": "http://www.kwokyinmak.com/"
+	},
+	{
+		"title": "Using requestIdleCallback",
+		"content": "Learn about requestIdleCallback, Google Chrome's new performance API for scheduling work when the user is idle. By Paul Lewis",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_Callback.png",
+		"url": "https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback"
+	},
+	{
+		"title": "Thinking Responsively: A Framework for Future Learning",
+		"content": "Paul Robert Lloyd writes about how we need to consolidate our learning in the post RWD enlightenment era.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_ThinkingResponsively.png",
+		"url": "http://alistapart.com/article/thinking-responsively-a-framework-for-future-learning"
+	},
+	{
+		"title": "Frontify Style Guide",
+		"content": "Create free brand and design style guides with Frontify Style Guide.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_StyleGuide.png",
+		"url": "https://frontify.com/styleguide"
+	},
+	{
+		"title": "Cohesive Colors",
+		"content": "A tool for creating more cohesive color schemes. Made by Javier Bórquez.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_CohesiveColors.png",
+		"url": "http://javierbyte.github.io/cohesive-colors/"
+	},
+	{
+		"title": "Wallop: A minimal JavaScript library for showing & hiding things",
+		"content": "Wallop is a small library for easily showing and hiding elements. Made by Pedro Duarte.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_Wallop.png",
+		"url": "http://pedroduarte.me/wallop/"
+	},
+	{
+		"title": "What happened to Web Components?",
+		"content": "A great read on the current status of Web Components by Dr. Axel Rauschmayer. ",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_WebComponents.png",
+		"url": "http://www.2ality.com/2015/08/web-component-status.html"
+	},
+	{
+		"title": "Animated SVG Image Slider",
+		"content": "A really fantastic image slider effect with SVG. Made by Sebastiano Guerriero from CodyHouse.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_SVGImageSlider.png",
+		"url": "http://codyhouse.co/gem/animated-svg-image-slider/"
+	},
+	{
+		"title": "The future of layout with CSS: Grid Layouts",
+		"content": "An article on the exciting grid layouts by Patrick Brosset.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_Grid.png",
+		"url": "https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a"
+	},
+	{
+		"title": "CSS vs SVG: Styling Checkboxes and Radio Buttons",
+		"content": "Learn some techniques of styling checkboxes and radio inputs with CSS or SVG and what the differences of the methods are. By Sara Soueidan.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_stylecheckboxes.png",
+		"url": "http://blogs.adobe.com/dreamweaver/2015/08/css-vs-svg-styling-checkboxes-and-radio-buttons.html"
+	},
+	{
+		"title": "Responsive Images 101, Part 9: Image Breakpoints",
+		"content": "Yet another great article from the responsive images series on Cloud Four Blog by Jason Grigsby. ",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_imgbreakpoints.png",
+		"url": "http://blog.cloudfour.com/responsive-images-101-part-9-image-breakpoints/"
+	},
+	{
+		"title": "toxy",
+		"content": "Hackable HTTP proxy to simulate server failure scenarios and unexpected network conditions.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_Toxy.jpg",
+		"url": "https://github.com/h2non/toxy"
+	},
+	{
+		"title": "In Other Words: Using the blockquote, cite and q elements",
+		"content": "Dudley Storey shows how to properly use the blockquote element.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_BlockQuotes.jpg",
+		"url": "http://thenewcode.com/4/In-Other-Words-Using-the-blockquote-cite-and-q-elements"
+	},
+	{
+		"title": "Free Font: Stoked",
+		"content": "A unique display typeface designed by Marie-Michelle Dupuis and available for free.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_FreeFontStoked.png",
+		"url": "https://www.behance.net/gallery/24597223/STOKED-(free-font)"
+	},
+	{
+		"title": "YouTube Gaming",
+		"content": "Oh yeah! YouTube just for gaming!",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_YouTubeGaming.jpg",
+		"url": "https://gaming.youtube.com/"
+	},
+	{
+		"title": "Share the Force",
+		"content": "Explore Star Wars memories on this fantastic site. A promotional campaign by Target.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_StarWarsMemories.jpg",
+		"url": "https://sharetheforce.target.com/"
+	},
+	{
+		"title": "Food & Drink UI Kit (PSD + Sketch)",
+		"content": "A beautiful UI kit with a gastronomic theme by Sergiu Firez.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_FoodUIKit.jpg",
+		"url": "https://www.behance.net/gallery/28412227/Food-Drink-UI-Kit-(PSD-Sketch)"
+	},
+	{
+		"title": "Free Pack of Realistic Vintage Light Bulb Sign Letters",
+		"content": "A free vintage light bulb letters pack by Chris Spooner.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_BulbLetters.jpg",
+		"url": "http://blog.spoongraphics.co.uk/freebies/free-pack-of-realistic-vintage-light-bulb-sign-letters"
+	},
+	{
+		"title": "Free Font: Amsdam Regular",
+		"content": "A lovely font with cute details designed by Davide Mancini and available for a tweet.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_FreeFontAmsdam.jpg",
+		"url": "https://www.behance.net/gallery/29067587/Amsdam-Typeface"
+	},
+	{
+		"title": "Officehours",
+		"content": "Officehours connects you with experts who give one-on-one advice for free.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_OfficeHours.png",
+		"url": "https://officehours.io/"
+	},
+	{
+		"title": "Responsive Upscaling: Large-Screen E-Commerce Design",
+		"content": "A very interesting read on responsive upscaling of e-commerce sites by Christian Holst on Smashing Magazine.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_BigScreens.png",
+		"url": "http://www.smashingmagazine.com/2015/08/responsive-upscaling-large-screen-e-commerce-design/"
+	},
+	{
+		"title": "Precognitive Pages: Using Resource Hints to Accelerate Site Performance",
+		"content": "Learn about how to use resource hints as a very effective technique to accelerate page delivery times. Another great read by Dudley Storey.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/08/Collective183_PrecognitivePages.png",
+		"url": "http://thenewcode.com/2/Precognitive-Pages-Using-Resource-Hints-to-Accelerate-Site-Performance"
+	},
+	{
+		"title": "Inspirational Website of the Week: Petas",
+		"content": "An elegant design with balanced typography and the right amount of animation made us pick Peta as inspirational website of the week.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_peta.png",
+		"url": "http://www.petas.it/"
+	},
+	{
+		"title": "Google’s look, evolved",
+		"content": "Google has changed their look! Read about the details of this redesign in the official blog entry.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_google.png",
+		"url": "http://googleblog.blogspot.pt/2015/09/google-update.html"
+	},
+	{
+		"title": "Principles Of HTML5 Game Design",
+		"content": "Learn how to get started with HTML5 game design in this in-depth article by Kamil Kaniuk and Tomasz Grajewski.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_gamedesign.png",
+		"url": "http://www.smashingmagazine.com/2015/09/principles-of-html5-game-design/"
+	},
+	{
+		"title": "CSS vs. SVG: Shapes and Arbitrarily-Shaped UI Components",
+		"content": "Sara Soueidan explains how to create different shapes with SVG and CSS techniques.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_csssvgshapes.png",
+		"url": "http://blogs.adobe.com/dreamweaver/2015/09/css-vs-svg-shapes-and-arbitrarily-shaped-ui-components.html"
+	},
+	{
+		"title": "HTML Color Codes",
+		"content": "All the HTML color codes in one place. Made by Dixon & Moe.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_htmlcolorcodes.png",
+		"url": "http://htmlcolorcodes.com/"
+	},
+	{
+		"title": "The anatomy of responsive images",
+		"content": "Jake Archibald explains various responsive images use cases and how to implement fitting solutions.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_responsiveimagesanatomy.png",
+		"url": "https://jakearchibald.com/2015/anatomy-of-responsive-images/"
+	},
+	{
+		"title": "An Overview of SVG Patterns",
+		"content": "Lucas Bebber gives a great overview of SVG patterns and how to use them.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_svgpatterns.png",
+		"url": "http://blogs.adobe.com/dreamweaver/2015/09/svg-patterns.html"
+	},
+	{
+		"title": "Squeezebox Portfolio Template",
+		"content": "A lovely portfolio showcase template made by Claudia Romano from CodyHouse.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_squeezebox.png",
+		"url": "http://codyhouse.co/gem/squeezebox-portfolio-template/"
+	},
+	{
+		"title": "HTML5 Deck of Cards",
+		"content": "Juha Lindstedt created this versatile deck of cards with lots of different effects.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_deckofcards.png",
+		"url": "http://pakastin.github.io/deck-of-cards/"
+	},
+	{
+		"title": "nippleJS",
+		"content": "A virtual joystick for touch-capable interfaces by Yoann Moinet.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_nipplejs.png",
+		"url": "http://yoannmoinet.github.io/nipplejs/"
+	},
+	{
+		"title": "Free Font: Bellico Typeface + Bonus Vectors (OTF, TTF)",
+		"content": "A beautiful script typeface with a wide range of alternates available through OpenType features. Designed by Seventh Imperium.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_bellico.png",
+		"url": "http://pixelbuddha.net/freebie/bellico-typedace-free-font-download"
+	},
+	{
+		"title": "Apple Music Redesign concept",
+		"content": "A beautiful Apple Music redesign concept by Tom Koszyk.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_applemusic.png",
+		"url": "https://www.behance.net/gallery/29240813/Apple-Music-Redesign-concept"
+	},
+	{
+		"title": "What We Talk About When We Talk About Ontology",
+		"content": "David Peter Simon dives into ontology and describes why it's so important for designers.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_ontology1.png",
+		"url": "http://uxmag.com/articles/what-we-talk-about-when-we-talk-about-ontology"
+	},
+	{
+		"title": "Quick Tip: The Simplest Way To Center Elements Vertically And Horizontally",
+		"content": "Danny Markov from Tutorialzine shows how to easily center elements the modern way.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_centeringelements.png",
+		"url": "http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/"
+	},
+	{
+		"title": "Back To School: Ruled Paper & Lined Text using SVG & CSS",
+		"content": "Dudley Storey shows how to create ruled paper with lined text using CSS and SVG.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_ruledpaper.png",
+		"url": "http://thenewcode.com/7/Back-To-School-Ruled-Paper-Lined-Text-using-SVG-CSS"
+	},
+	{
+		"title": "Scroll snapping explained",
+		"content": "Sebastian Zartner explains CSS scroll snapping and what you can do with it.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_scrollsnapping.png",
+		"url": "https://hacks.mozilla.org/2015/09/scroll-snapping-explained/"
+	},
+	{
+		"title": "Vulcan: A JavaScript Automated Proof System",
+		"content": "Ryan Marcus built this resolution-based automated proof system as an NPM package.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_vulcan.png",
+		"url": "http://rmarcus.info/blog/2015/09/02/vulcan.html"
+	},
+	{
+		"title": "Pixel Map Generator",
+		"content": "A great pixel map generator by AM Charts that let's you created customized dotted style maps.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_pixelmap.png",
+		"url": "http://pixelmap.amcharts.com/"
+	},
+	{
+		"title": "Free Font: Atzur",
+		"content": "Oscar Cobo designed this interesting typeface and offers it for free.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_atzur.png",
+		"url": "https://www.behance.net/gallery/29252427/Atzur-free-typefamily"
+	},
+	{
+		"title": "Unistyle",
+		"content": "Write modular and scalable CSS using the next version of ECMAScript. Made by Joakim Carlstein.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective184_unistyle.png",
+		"url": "https://github.com/joakimbeng/unistyle"
+	},
+	{
+		"title": "Inspirational Website of the Week: Eginstill",
+		"content": "A minimal design with smooth effects and lovely details. Our pick this week.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_Eginstill.jpg",
+		"url": "http://www.eginstill.com/"
+	},
+	{
+		"title": "A Guide To Building SVG Maps From Natural Earth Data",
+		"content": "A fantastic tutorial by Chris Youderian on how to create interactive maps with SVG.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_SVGMaps.png",
+		"url": "http://www.smashingmagazine.com/2015/09/making-svg-maps-from-natural-earth-data/"
+	},
+	{
+		"title": "iOS 9 GUI for Sketch",
+		"content": "Amazing work: the vector-based iOS 9 GUI made by Meng To.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_iOS9GUI.jpg",
+		"url": "https://designcode.io/ios9"
+	},
+	{
+		"title": "The Tools Designers Are Using Today",
+		"content": "The fantastic Subtraction.com design tools survey results are out and they give a priceless insight into what tools creatives all over the world are using.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_Tools.png",
+		"url": "http://tools.subtraction.com/"
+	},
+	{
+		"title": "Designing Safer Web Animation For Motion Sensitivity",
+		"content": "An excellent article by Val Head on the dangers of employing irresponsible animations on websites and how to avoid it. ",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_AnimationMotionSick.png",
+		"url": "http://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity"
+	},
+	{
+		"title": "Use & Modify",
+		"content": "A collection of exquisite typeface that are free to use and modify. A project by Raphaël Bastide.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_UseModify.png",
+		"url": "http://usemodify.com/"
+	},
+	{
+		"title": "The Most Recognizable Thing on the Planet",
+		"content": "An interesting eye-tracking study of the use of the hamburger menu on desktop websites and the implications. ",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_Hamburger.jpg",
+		"url": "http://www.developertown.com/hamburger-menu/"
+	},
+	{
+		"title": "Chocolat.js: jQuery lightbox candy",
+		"content": "An excellent responsive jQuery lightbox script made by Nicolas Turlais.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_Chocolatjs.png",
+		"url": "http://chocolat.insipi.de/"
+	},
+	{
+		"title": "Tinderesque — building a Tinder-like interface with CSS animations and vanilla JS #justcode",
+		"content": "Chris Heilmann re-created the effect seen on Tinder using CSS animation and some JavaScript to control the voting process.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_Tinder.png",
+		"url": "http://christianheilmann.com/2015/09/06/tinderesque-building-a-tinder-like-interface-with-css-animations-and-vanilla-js-justcode/"
+	},
+	{
+		"title": "Want to learn JavaScript in 2015?",
+		"content": "A practical guide on the steps to take in order to learn JavaScript.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_LearnJS.png",
+		"url": "https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225"
+	},
+	{
+		"title": "Why You Hate Google’s New Logo",
+		"content": "A very interesting read by Sarah Larson on the redesign of Google's logo.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_Google.jpg",
+		"url": "http://www.newyorker.com/culture/cultural-comment/why-you-hate-googles-new-logo"
+	},
+	{
+		"title": "Jets.js: Native CSS search engine",
+		"content": "Denis Lukov created this search engine that leverages a browser's native search speed.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_Jetjs.png",
+		"url": "http://nexts.github.io/Jets.js/"
+	},
+	{
+		"title": "Free Font: Banthers Free",
+		"content": "A beautiful vintage-style display font designed by Agga Swist'blnk with a free version.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_FontBanthers.jpg",
+		"url": "https://www.behance.net/gallery/29369733/Banthers-Free-Font"
+	},
+	{
+		"title": "Gorgo HTML Template",
+		"content": "Gorgo is a gorgeous Kirby CMS theme with a free HTML version. Made by AristoTheme.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_Gorgo.jpg",
+		"url": "http://aristotheme.com/gorgo-portfolio-theme-for-kirby-cms.html"
+	},
+	{
+		"title": "Defining Design",
+		"content": "An excerpt from Chen Ye's workshop he gave at PennApps Fall 2015. A great read on defining design.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_DefiningDesign.png",
+		"url": "https://medium.com/hh-design/defining-the-big-d-afc856b4b8d"
+	},
+	{
+		"title": "Illustricons: 36 Free Icons",
+		"content": "A set of 36 beautiful icons from the Illustricons set by the Sliceberry team for GraphicBurger.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_Illustricons.png",
+		"url": "http://graphicburger.com/illustricons-36-free-icons/"
+	},
+	{
+		"title": "SVG animation with GreenSock",
+		"content": "Allan Pope shows how to animate SVG with GreenSock Animation Platform in this practical tutorial.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_GSAPSVG.png",
+		"url": "https://www.august.com.au/blog/svg-animation-with-greensock/"
+	},
+	{
+		"title": "ContentTools: WYSIWYG editor for HTML content",
+		"content": "ContentTools is a collection of open-source JavaScript libraries that can be used out-of-the-box as a standalone WYSIWYG editor or as a framework applicable to a wide array of content editing problems.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_ContentTools.png",
+		"url": "http://getcontenttools.com/"
+	},
+	{
+		"title": "Free Font: Barbaro",
+		"content": "A lovely free font with western and roman style designed by Iván Núñez.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective185_FontBarbaro.jpg",
+		"url": "https://www.behance.net/gallery/29468093/Barbaro-Font"
+	},
+	{
+		"title": "Inspirational Website of the Week: Samuel Medvedowsky",
+		"content": "A very clean portfolio with some very thoughtful details and subtle effects. Out pick this week.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_samuel.png",
+		"url": "http://www.samuel-medvedowsky.com/"
+	},
+	{
+		"title": "Modernizr 3: A new release and website",
+		"content": "A brand-new page design and a new Modernizr release with lots of improvements.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Colective186_Modernizr3.png",
+		"url": "https://modernizr.com/news/modernizr-3-new-release-site"
+	},
+	{
+		"title": "Creating Cel Animations With SVG",
+		"content": "A brilliant article by Heydon Pickering on how to create vector-based frame-by-frame animations using \"cel\" elements.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_celanimations.js.png",
+		"url": "http://www.smashingmagazine.com/2015/09/creating-cel-animations-with-svg/"
+	},
+	{
+		"title": "Pt — A code experiment on point, form, and space.",
+		"content": "Pt explores visual forms in code with a plethora of demos by William Ngan.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_pt.png",
+		"url": "http://williamngan.github.io/pt/"
+	},
+	{
+		"title": "Stylesheets",
+		"content": "Stylesheets is a commnunity-generated collection of CSS related tools, tutorials, snippets, and repos.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_stylesheets.png",
+		"url": "https://stylesheets.co/"
+	},
+	{
+		"title": "Responsive Sidebar Navigation",
+		"content": "A perfect responsive menu that is easily integrable. Made by Sebastiano Guerriero from CodyHouse.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_responsivesidebarnavigation.png",
+		"url": "http://codyhouse.co/gem/responsive-sidebar-navigation/"
+	},
+	{
+		"title": "Primer",
+		"content": "Learn about marketing with Primer by Google.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Colective186_Primer.jpg",
+		"url": "https://www.yourprimer.com/"
+	},
+	{
+		"title": "The toxic side of free. Or: how I lost the love for my side project",
+		"content": "Remy Sharp shares his story of JS Bin and how difficult it is to deal with problems related to DDoS attacks, spam and more.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_toxicsideoffree.png",
+		"url": "https://remysharp.com/2015/09/14/jsbin-toxic-part-1"
+	},
+	{
+		"title": "What forces layout / reflow",
+		"content": "A compilation of properties or methods in JavaScript that trigger the browser to synchronously calculate the style and layout. By Paul Irish.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_forceslayout.png",
+		"url": "https://gist.github.com/paulirish/5d52fb081b3570c81e3a"
+	},
+	{
+		"title": "Hulk Smash SVG!",
+		"content": "Hulk Smash SVG! is an really awesome HTML, CSS and JavaScript demo built by Anthony Calzadilla using GSAP and Snap.svg.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_hulk.png",
+		"url": "http://clzd.me/hulk-smash-svg-use-greensock-gsap-and-snap-svg-to-build-css-svg-javascript-animation/"
+	},
+	{
+		"title": "CSS vs SVG: The Final Round(up)",
+		"content": "A great roundup of SVG vs. CSS techniques for various components and effects by Sara Soueidan.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_cssvssvg.png",
+		"url": "http://blogs.adobe.com/dreamweaver/2015/09/css-vs-svg-the-final-roundup.html"
+	},
+	{
+		"title": "Keep Out!",
+		"content": "A fantastic WebGL game experiment by Little Workshop.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_keepout.png",
+		"url": "http://www.littleworkshop.fr/keepout.html"
+	},
+	{
+		"title": "World Landmark: 12 Free Icons",
+		"content": "A lovely freebie of landmark icons in line style made by PugMarker for GraphicBurger.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_Landmarks.png",
+		"url": "http://graphicburger.com/world-landmark-12-free-icons/"
+	},
+	{
+		"title": "Hacker Menu",
+		"content": "An app that will deliver Hacker News directly to your desktop.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_hackermenu.png",
+		"url": "https://hackermenu.io/"
+	},
+	{
+		"title": "Free Font: Luzern (regular)",
+		"content": "A gorgeous sans serif Typeface loaded with OpenType features. Designed by Gumpita Rahayu with a free regular style.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_LuzernFreeFont.png",
+		"url": "http://www.myfonts.com/fonts/gumpita-rahayu/luzern/?refby=codrops"
+	},
+	{
+		"title": "ActiveBox HTML Template",
+		"content": "A very clean multi-purpose responsive one-page HTML template made by Kamal Chaneman for PixelBuddha.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_activebox.png",
+		"url": "http://pixelbuddha.net/freebie/activebox-html-template"
+	},
+	{
+		"title": "Amazon Web Services in Plain English",
+		"content": "A great and clear overview of all Amazon Web Services.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_awsplainenglish.js.png",
+		"url": "https://www.expeditedssl.com/aws-in-plain-english"
+	},
+	{
+		"title": "How to use Chrome DevTools like a Pro",
+		"content": "Ibrahim Nergiz from JotForm shows how to master Chrome DevTools and speed up development",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_chromedevtoolspro.js.png",
+		"url": "https://medium.com/jotform-form-builder/how-to-use-chrome-devtools-like-a-pro-b9bd414870e3"
+	},
+	{
+		"title": "Free Font: Measure",
+		"content": "Sergey Godovalov designed this cool font which you can get for a social share.",
+		"img": "http://codropspz.tympanus.netdna-cdn.com/codrops/wp-content/uploads/2015/09/Collective186_measure.js.png",
+		"url": "https://www.behance.net/gallery/29305487/Measure-typeface"
+	}
+]
