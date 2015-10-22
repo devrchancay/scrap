@@ -2,6 +2,7 @@
 
 let xray = require('x-ray');
 let fs   = require('fs');
+let path = require('path');
 
 
 let x    = new xray();
@@ -17,16 +18,15 @@ x(`http://tympanus.net/codrops/collective/collective-${num}`, '.ct-coll-item',[{
 .limit(10)
 ((err,results) => {
 
-
-	if(!err) { 
+	if(!err) {
 		results = results.filter((result) => {
 			return result.title !== undefined;
 		});
 
-		fs.writeFile("./results.json", JSON.stringify(results, null, '\t'));
+		fs.writeFile(path.join(__dirname + "/results.json"), JSON.stringify(results, null, '\t'));
 	}
 	else{
-		fs.writeFile("./results.json", JSON.stringify(err, null, '\t'));
+		fs.writeFile(path.join(__dirname + "/results.json"), JSON.stringify(err, null, '\t'));
 	}
 
 });
